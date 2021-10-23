@@ -1,1 +1,5 @@
 language: python
+
+script:
+  - black --check *.py
+  - flake8
