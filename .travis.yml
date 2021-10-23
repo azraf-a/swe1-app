@@ -4,3 +4,4 @@ script:
   - black --check *.py
   - flake8
   - coverage run --source="." manage.py test
+  - coveralls

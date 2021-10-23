@@ -13,3 +13,5 @@ sqlparse==0.4.1
 django-heroku
 flake8
 black
+coverage
+coveralls
