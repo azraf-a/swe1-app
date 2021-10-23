@@ -1,4 +1,4 @@
-# Register your models here. Additional Tests.
+# Register your models here. Additional Travis changes.
 from django.contrib import admin
 
 from .models import Choice, Question
